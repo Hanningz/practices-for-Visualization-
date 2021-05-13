@@ -31,7 +31,7 @@
 {"mag":6.5,"place":"236km S of Punta de Burica, Panama","time":1420607227510,"updated":1427439745040,"tz":-360,
 "felt":0,"cdi":1,"mmi":3.86,"alert":"green","status":"reviewed","tsunami":1,"sig":650,"net":"us",
 "code":"c000tcba","ids":",pt15007000,at00nhsjk9,usc000tcba,gcmt20150107050708,","sources":",pt,at,us,gcmt,",
-"magType":"mww","type":"earthquake","title":"M 6.123 - 236km S of Punta de Burica, Panama"},
+"magType":"mww","type":"earthquake","title":"M 6.5 - 236km S of Punta de Burica, Panama"},
 "geometry":{"type":"Point","coordinates":[-82.6576,5.9045,8]},"id":"usc000tcba"}],
 "bbox":[-178.7298,-55.755,5,179.1278,59.8935,664]
 }
