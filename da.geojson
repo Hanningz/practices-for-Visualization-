@@ -3,9 +3,13 @@
 "Feature",
 "properties":
 {"mag":6.2,"place":"Southern East Pacific Rise","time":1450986243130,"updated":1454616631000,"tz":-480,
+"url":"http://earthquake.usgs.gov/earthquakes/eventpage/us100049ce",
+"detail":"http://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us100049ce&format=geojson",
 "felt":null,"cdi":null,"mmi":0,"alert":"green","status":"reviewed","tsunami":0,"sig":591,"net":"us",
 "code":"100049ce","ids":",us100049ce,gcmt20151224194403,",
 "sources":",us,gcmt,",
+"types":",cap,geoserve,losspager,moment-tensor,moment-tensor,moment-tensor,nearby-cities,origin,phase-data,shakemap,",
+"nst":null,"dmin":27.97,"rms":1.24,"gap":36,"magType":"mww","type":"earthquake","title":"M 6.2 - Southern East Pacific Rise"},
 "geometry":{
     "type":"Point",
     "coordinates":[-123.1158,-55.755,12.28]},
@@ -16,8 +20,11 @@
 "properties":
 {"mag":6.8,"place":"80km NNE of Port-Vila, Vanuatu",
 "time":1421984847050,"updated":1429894509040,"tz":660,
+"url":"http://earthquake.usgs.gov/earthquakes/eventpage/usc000tihy",
+"detail":"http://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usc000tihy&format=geojson",
 "felt":0,"cdi":1,"mmi":5.54,"alert":"green","status":"reviewed","tsunami":1,"sig":711,"net":"us",
 "code":"c000tihy","ids":",pt15023000,usc000tihy,at00nim2j3,gcmt20150123034727,","sources":",pt,us,at,gcmt,",
+"types":",cap,dyfi,geoserve,impact-link,losspager,moment-tensor,moment-tensor,moment-tensor,moment-tensor,nearby-cities,origin,phase-data,shakemap,tectonic-summary,","nst":null,"dmin":2.019,"rms":0.71,"gap":13,
 "magType":"mww","type":"earthquake","title":"M 6.8 - 80km NNE of Port-Vila, Vanuatu"},
 "geometry":{
     "type":
@@ -29,8 +36,11 @@
 "Feature",
 "properties":
 {"mag":6.5,"place":"236km S of Punta de Burica, Panama","time":1420607227510,"updated":1427439745040,"tz":-360,
+"url":"http://earthquake.usgs.gov/earthquakes/eventpage/usc000tcba",
+"detail":"http://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usc000tcba&format=geojson",
 "felt":0,"cdi":1,"mmi":3.86,"alert":"green","status":"reviewed","tsunami":1,"sig":650,"net":"us",
 "code":"c000tcba","ids":",pt15007000,at00nhsjk9,usc000tcba,gcmt20150107050708,","sources":",pt,at,us,gcmt,",
+"types":",cap,dyfi,geoserve,impact-link,losspager,moment-tensor,moment-tensor,moment-tensor,shakemap,tectonic-summary,","nst":null,"dmin":4.318,"rms":1.17,"gap":61,
 "magType":"mww","type":"earthquake","title":"M 6.5 - 236km S of Punta de Burica, Panama"},
 "geometry":{"type":"Point","coordinates":[-82.6576,5.9045,8]},"id":"usc000tcba"}],
 "bbox":[-178.7298,-55.755,5,179.1278,59.8935,664]
