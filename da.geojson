@@ -3,12 +3,12 @@
 "Feature",
 "properties":
 {"mag":6.2,"place":"Southern East Pacific Rise","time":1450986243130,"updated":1454616631000,"tz":-480,
-"url":"http://earthquake.usgs.gov/earthquakes/eventpage/us100049ce",
+"url":"",
 "detail":"http://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us100049ce&format=geojson",
 "felt":null,"cdi":null,"mmi":0,"alert":"green","status":"reviewed","tsunami":0,"sig":591,"net":"us",
 "code":"100049ce","ids":",us100049ce,gcmt20151224194403,",
 "sources":",us,gcmt,",
-"types":",cap,geoserve,losspager,moment-tensor,moment-tensor,moment-tensor,nearby-cities,origin,phase-data,shakemap,",
+"types":",cap,geoserve,losspager,shakemap,",
 "nst":null,"dmin":27.97,"rms":1.24,"gap":36,"magType":"mww","type":"earthquake","title":"M 6.2 - Southern East Pacific Rise"},
 "geometry":{
     "type":"Point",
@@ -24,7 +24,7 @@
 "detail":"http://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usc000tihy&format=geojson",
 "felt":0,"cdi":1,"mmi":5.54,"alert":"green","status":"reviewed","tsunami":1,"sig":711,"net":"us",
 "code":"c000tihy","ids":",pt15023000,usc000tihy,at00nim2j3,gcmt20150123034727,","sources":",pt,us,at,gcmt,",
-"types":",cap,dyfi,geoserve,impact-link,losspager,moment-tensor,moment-tensor,moment-tensor,moment-tensor,nearby-cities,origin,phase-data,shakemap,tectonic-summary,","nst":null,"dmin":2.019,"rms":0.71,"gap":13,
+"types":",cap,dyfi,geoserve,","nst":null,"dmin":2.019,"rms":0.71,"gap":13,
 "magType":"mww","type":"earthquake","title":"M 6.8 - 80km NNE of Port-Vila, Vanuatu"},
 "geometry":{
     "type":
