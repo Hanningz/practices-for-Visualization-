@@ -84,6 +84,7 @@
     "coordinates":[22.1783, 60.4232]},
     "id":"usc000tihy"
     },
+    
     {"type":
 "Feature",
 "properties":
@@ -101,6 +102,97 @@
     "coordinates":[22.1749, 60.4215]},
     "id":"usc000tihy"
     },  
+    
+     {"type":
+"Feature",
+"properties":
+{"mag":6,"place":"80km NNE of Port-Vila, Vanuatu",
+"time":1421984847050,"updated":1429894509040,"tz":660,
+"url":"http://earthquake.usgs.gov/earthquakes/eventpage/usc000tihy",
+"detail":"http://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usc000tihy&format=geojson",
+"felt":0,"cdi":1,"mmi":5.54,"alert":"green","status":"reviewed","tsunami":1,"sig":711,"net":"us",
+"code":"c000tihy","ids":",pt15023000,usc000tihy,at00nim2j3,gcmt20150123034727,","sources":",pt,us,at,gcmt,",
+"types":",cap,dyfi,geoserve,impact-link,losspager,moment-tensor,moment-tensor,moment-tensor,moment-tensor,nearby-cities,origin,phase-data,shakemap,tectonic-summary,","nst":null,"dmin":2.019,"rms":0.71,"gap":13,
+"magType":"mww","type":"earthquake","title":"M 6.8 - 80km NNE of Port-Vila, Vanuatu"},
+"geometry":{
+    "type":
+    "Point",
+    "coordinates":[22.1920, 60.4254]},
+    "id":"usc000tihy"
+    },  
+    
+     {"type":
+"Feature",
+"properties":
+{"mag":3,"place":"80km NNE of Port-Vila, Vanuatu",
+"time":1421984847050,"updated":1429894509040,"tz":660,
+"url":"http://earthquake.usgs.gov/earthquakes/eventpage/usc000tihy",
+"detail":"http://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usc000tihy&format=geojson",
+"felt":0,"cdi":1,"mmi":5.54,"alert":"green","status":"reviewed","tsunami":1,"sig":711,"net":"us",
+"code":"c000tihy","ids":",pt15023000,usc000tihy,at00nim2j3,gcmt20150123034727,","sources":",pt,us,at,gcmt,",
+"types":",cap,dyfi,geoserve,impact-link,losspager,moment-tensor,moment-tensor,moment-tensor,moment-tensor,nearby-cities,origin,phase-data,shakemap,tectonic-summary,","nst":null,"dmin":2.019,"rms":0.71,"gap":13,
+"magType":"mww","type":"earthquake","title":"M 6.8 - 80km NNE of Port-Vila, Vanuatu"},
+"geometry":{
+    "type":
+    "Point",
+    "coordinates":[22.1653, 60.4190]},
+    "id":"usc000tihy"
+    },  
+    
+    {"type":
+"Feature",
+"properties":
+{"mag":3,"place":"80km NNE of Port-Vila, Vanuatu",
+"time":1421984847050,"updated":1429894509040,"tz":660,
+"url":"http://earthquake.usgs.gov/earthquakes/eventpage/usc000tihy",
+"detail":"http://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usc000tihy&format=geojson",
+"felt":0,"cdi":1,"mmi":5.54,"alert":"green","status":"reviewed","tsunami":1,"sig":711,"net":"us",
+"code":"c000tihy","ids":",pt15023000,usc000tihy,at00nim2j3,gcmt20150123034727,","sources":",pt,us,at,gcmt,",
+"types":",cap,dyfi,geoserve,impact-link,losspager,moment-tensor,moment-tensor,moment-tensor,moment-tensor,nearby-cities,origin,phase-data,shakemap,tectonic-summary,","nst":null,"dmin":2.019,"rms":0.71,"gap":13,
+"magType":"mww","type":"earthquake","title":"M 6.8 - 80km NNE of Port-Vila, Vanuatu"},
+"geometry":{
+    "type":
+    "Point",
+    "coordinates":[22.1762, 60.4243]},
+    "id":"usc000tihy"
+    },  
+    
+    {"type":
+"Feature",
+"properties":
+{"mag":3,"place":"80km NNE of Port-Vila, Vanuatu",
+"time":1421984847050,"updated":1429894509040,"tz":660,
+"url":"http://earthquake.usgs.gov/earthquakes/eventpage/usc000tihy",
+"detail":"http://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usc000tihy&format=geojson",
+"felt":0,"cdi":1,"mmi":5.54,"alert":"green","status":"reviewed","tsunami":1,"sig":711,"net":"us",
+"code":"c000tihy","ids":",pt15023000,usc000tihy,at00nim2j3,gcmt20150123034727,","sources":",pt,us,at,gcmt,",
+"types":",cap,dyfi,geoserve,impact-link,losspager,moment-tensor,moment-tensor,moment-tensor,moment-tensor,nearby-cities,origin,phase-data,shakemap,tectonic-summary,","nst":null,"dmin":2.019,"rms":0.71,"gap":13,
+"magType":"mww","type":"earthquake","title":"M 6.8 - 80km NNE of Port-Vila, Vanuatu"},
+"geometry":{
+    "type":
+    "Point",
+    "coordinates":[22.1900, 60.4256]},
+    "id":"usc000tihy"
+    },  
+    
+    {"type":
+"Feature",
+"properties":
+{"mag":3,"place":"80km NNE of Port-Vila, Vanuatu",
+"time":1421984847050,"updated":1429894509040,"tz":660,
+"url":"http://earthquake.usgs.gov/earthquakes/eventpage/usc000tihy",
+"detail":"http://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usc000tihy&format=geojson",
+"felt":0,"cdi":1,"mmi":5.54,"alert":"green","status":"reviewed","tsunami":1,"sig":711,"net":"us",
+"code":"c000tihy","ids":",pt15023000,usc000tihy,at00nim2j3,gcmt20150123034727,","sources":",pt,us,at,gcmt,",
+"types":",cap,dyfi,geoserve,impact-link,losspager,moment-tensor,moment-tensor,moment-tensor,moment-tensor,nearby-cities,origin,phase-data,shakemap,tectonic-summary,","nst":null,"dmin":2.019,"rms":0.71,"gap":13,
+"magType":"mww","type":"earthquake","title":"M 6.8 - 80km NNE of Port-Vila, Vanuatu"},
+"geometry":{
+    "type":
+    "Point",
+    "coordinates":[22.2030, 60.4302]},
+    "id":"usc000tihy"
+    },  
+    
 {"type":
 "Feature",
 "properties":
